@@ -1,3 +1,8 @@
+# Archived
+This repository is now archived as I've made a website that wasn't, ya know, completely stolen from someone. For the new site, vist https://floridaman7588.me
+The GitHub for my new website can be found [here](https://github.com/floridaman7588/floridaman7588.me)
+
+
 # GitHub Pages
 A small website using GitHub pages to show all of my other projects in a nice and presentable way.
 Can be viewed from https://floridaman7588.github.io
